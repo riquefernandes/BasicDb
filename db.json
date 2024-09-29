@@ -18,5 +18,21 @@
             "age": 17,
             "adress" : "Rua xpto tal, 28"
         }
-    ]
-}
+    ],
+    "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+        "id": 2,
+        "body": "One more comments",
+        "postId": 2
+      },
+      {
+        "id": 3,
+        "body": "some comment2",
+        "postId": 3
+      }
+]}
